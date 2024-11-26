@@ -1,0 +1,5 @@
+com\upiiz\E10\services\HeroeService.class
+com\upiiz\E10\entities\Heroe.class
+com\upiiz\E10\E10Application.class
+com\upiiz\E10\respositories\HeroeRepository.class
+com\upiiz\E10\controllers\HeroeController.class
